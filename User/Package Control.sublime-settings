@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"CodeFormatter",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"HTML5",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"MarkdownEditing",
+		"Package Control",
+		"PhpArrayConverter",
+		"phpfmt",
+		"SFTP",
+		"SideBarEnhancements",
+		"sublime-phpfmt",
+		"SublimeLinter",
+		"Tagify",
+		"WakaTime"
+	],
+	"repositories":
+	[
+		"https://github.com/boeserwolf/sublime-phpfmt.git"
+	]
+}
